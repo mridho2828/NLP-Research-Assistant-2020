@@ -1,0 +1,3 @@
+## Bilingual Lexicon Extraction
+
+Eksperimen ini didasarkan pada skripsi PEMBANGUNAN AWAL MODEL EKSTRAKSI LEKSIKON BILINGUAL INDONESIA - INGGRIS oleh Muhammad Iddad Izzatulummah (2017). Pada eksperimen ini dilakukan dua pendekatan yaitu berbasis **morfologi dan distribusi kata** serta berbasis **word embedding**. Pada repository ini terdapat *script* Jupyter Notebook serta korpus yang diambil dari projext [PANL10n project](http://www.panl10n.net/english/OutputsIndonesia2.htm).
